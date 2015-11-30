@@ -3,5 +3,9 @@
     <a href="/#/add-video">Add a Video</a>
 </p>
 <ul>
-    <li ng-repeat='video in videos'>{{video.title}}</li>
+    <li ng-repeat='video in videos'>
+        <a href="/#/video/{{video._id}}">
+            {{video.title}}
+        </a>
+    </li>
 </ul>
