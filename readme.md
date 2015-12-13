@@ -1,4 +1,16 @@
 # mean教程源代码
+**主页**
+![主页](display.png)
+
+--- 
+**编辑页面**
+![编辑页面](update.png)
+
+---
+**删除页面**
+![删除页面](delete.png)
+
+---
 ## 教程传送门
 * [【译】基于MEAN的全栈开发实例教程1：前言](http://yalishizhude.github.io/2015/10/13/mean-1/)
 * [【译】基于MEAN的全栈开发实例教程2：搭建开发环境](http://yalishizhude.github.io/2015/10/13/mean-2/)
